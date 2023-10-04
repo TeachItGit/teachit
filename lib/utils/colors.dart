@@ -1,0 +1,66 @@
+import 'package:flutter/material.dart';
+
+const backgroundColor = Colors.black;
+
+const m1Color = Colors.blue;
+
+const btmYellow = Color(0xFFF3C02D);
+const raisinBlack = Color(0xFF242424);
+const arsenic = Color(0xFF414141);
+const btmGray = Color(0xFF808080);
+const cultured = Color(0xFFF4F4F4);
+const white = Color(0xFFFFFFFF);
+const fillColor = Color(0xFFFCFCFC);
+const hashTagBlue = Color(0xFF1E78E2);
+const postDivider = Color(0xFFE7E7E7);
+const red = Colors.red;
+const preOrder = Color(0xFF2EAE19);
+const preOrderLight = Color(0xFFE7F4E5);
+
+const followYellow = Color(0xFFF2C954);
+const yellow = Color(0xFFFABF2F);
+const grey = Color(0xFFDEDEDE);
+const lightGrey = Color(0xFFEFEFEF);
+const txtGrey = Color(0xFF919191);
+const discoverBg = Color(0xFFF9F9F9);
+const textGrey = Color(0xFF808080);
+const black = Colors.black;
+const textBk = Color(0xFF2C3742);
+const serviceGrey = Color(0xFF959BA0);
+const onbaordingBlack = Color(0xFF020101);
+const textBlack = Color(0xFF414141);
+const textLightBlack = Color(0xFF626262);
+const subTitleGray = Color(0xFF787878);
+const lightBlack = Color(0xFF6D6D6D);
+const socialBntColor = Color(0xFFF0EFEF);
+const brown = Color(0xFF302800);
+const lightPink = Color(0xFFF6BECD);
+const borderGray = Color(0xFFD9D9D9);
+const cartTileColor = Color(0xFFF1F1F1);
+const cartGray = Color(0xFFE3E3E3);
+
+const cartSubText = Color(0xFF767676);
+const dividerColor = Color(0xFFBDBDBD);
+const skipBtnColor = Color(0xFFF7F7F7);
+const skipTxtColor = Color(0xFFA6A6A6);
+const borderColor = Color(0xFFF2F2F2);
+const hintTxtColor = Color(0xFFB3B3B3);
+const hintTxtColor2 = Color(0xFF242424);
+const blue = Color(0xFF216DFF);
+const feedSubTxtColor = Color(0xFF606060);
+const followBtnColor = Color(0xFFDCDCDC);
+const textFiledBorderColor = Color(0xFF696969);
+const textFiledColor = Color(0xFF1E1E1E);
+const commentTextFiledBorderColor = Color(0xFFD5D5D5);
+const lockBgColor = Color(0xFF4A4A4A);
+const skipBgColor = Color(0xFF1B1A1C);
+const appbarIconBg = Color(0xFFDFD5D0);
+const followersBorderColor = Color(0xFF797979);
+const feedCommentTextColor = Color(0xFF313131);
+const trackingActionBgColor = Color(0xFFFEFAEE);
+const lightBrown = Color(0xFF333333);
+const dotedLineColor = Color(0xFFE2E2E2);
+const remainingTimeBorderColor = Color(0xFFE2E2E2);
+const textLightGray = Color(0xFF979899);
+const instructionsBgColor = Color(0xFFF8F8F8);
+const chatBotBgColor = Color(0xFF918034);
