@@ -24,26 +24,25 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
     List<String> imageurl = [svgOnboarding1, svgOnboarding2, svgOnboarding3];
 
     List<Widget> centerwidget = [
-          CenterWidget(
-            imageUrl: 'assets/images/onboarding4.png',
-            endingHeading: AppLocalizations.of(context)!.restaurants,
-            beginheading: AppLocalizations.of(context)!.best,
-            description: AppLocalizations.of(context)!.on_boarding_des1,
-            beginHeadingColor: white,
-            endingHeadingColor: btmYellow,
-          ),
-          CenterWidget(
-              imageUrl: 'assets/images/onboarding5.png',
-              endingHeading: AppLocalizations.of(context)!.kitchen,
-              beginheading: AppLocalizations.of(context)!.home,
-              description: AppLocalizations.of(context)!.on_boarding_des1),
-          CenterWidget(
-              endingHeading: AppLocalizations.of(context)!.foodie,
-              imageUrl: 'assets/images/onboarding6.png',
-              beginheading: AppLocalizations.of(context)!.feed,
-              description: AppLocalizations.of(context)!.on_boarding_des1),
-        ];
-
+      const CenterWidget(
+        imageUrl: 'assets/images/onboarding4.png',
+        endingHeading: "1",
+        beginheading: "1",
+        description: "1",
+        beginHeadingColor: white,
+        endingHeadingColor: btmYellow,
+      ),
+      const CenterWidget(
+          imageUrl: 'assets/images/onboarding5.png',
+          endingHeading: '2',
+          beginheading: '2',
+          description: '2'),
+      const CenterWidget(
+          endingHeading: '3',
+          imageUrl: 'assets/images/onboarding6.png',
+          beginheading: '3',
+          description: '3'),
+    ];
 
     return const Placeholder();
   }
